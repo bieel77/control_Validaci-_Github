@@ -1,4 +1,11 @@
 Jan Fernández: 19 anys, DAM.
+- Projecte Github cooperatiu
+
 Pol Hernández: 18 Anys, DAM.
+- Projecte desenvolupament d'un videojoc
+
 Bruno Claros: 18 Anys, DAM.
+- Projecte Control de versions
+
 Anthony Milla 18 Anys, DAM.
+- Projecte Full-stack
